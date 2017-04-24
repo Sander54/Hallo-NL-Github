@@ -1,7 +1,7 @@
 # Hallo-NL-Github
 creation repository + breanches +pull+merg ALL within GITHUB 24-04-2017
 
-let make some changes in the read-me file IN THE BRANCH readme-edits
+lets make some changes in the read-me file IN THE BRANCH readme-edits
 
 ok?
 
@@ -10,3 +10,5 @@ Then I made a Pull request and compared the 2 readme-files,
 and finnally I merged the adjusted readme file from de edit branch to the master
 (and deleted the 2nd branch)
 
+Oeps There was missing 1 letter: do it all over again!!!
+(very nice that after each change you can commit this straight after the adjustment..
