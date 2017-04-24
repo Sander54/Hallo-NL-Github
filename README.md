@@ -17,3 +17,7 @@ Hello I have succeeded for the second time: but this time by using the same (edi
 in other words: why delete an edit branch if you can use this several times...
 
 Ok enough "talking" lets pull and merge for the 3th time (in a row)...
+
+
+ Ik (mijn Laptop) heb de file ontvangen en wijzig het nu (23:50 24-04-2017)
+  met deze tekst.  ga het zo weer terug sturen!!! Sander54
