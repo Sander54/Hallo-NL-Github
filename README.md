@@ -12,3 +12,8 @@ and finnally I merged the adjusted readme file from de edit branch to the master
 
 Oeps There was missing 1 letter: do it all over again!!!
 (very nice that after each change you can commit this straight after the adjustment..
+
+Hello I have succeeded for the second time: but this time by using the same (edit-) branch:
+in other words: why delete an edit branch if you can use this several times...
+
+Ok enough "talking" lets pull and merge for the 3th time (in a row)...
